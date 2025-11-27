@@ -30,6 +30,7 @@ performance.
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
 ## CIRCUIT DIAGRAM: 
 
+
 ## MODEL GRAPH:
 
 ## PROCEDURE:  
