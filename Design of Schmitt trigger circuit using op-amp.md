@@ -13,6 +13,7 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 
 ## CIRCUIT DIAGRAM:
 
+
 ## MODEL GRAPH:
 
 ## PROCEDURE:
