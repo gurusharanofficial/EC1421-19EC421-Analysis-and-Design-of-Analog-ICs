@@ -30,6 +30,7 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CIRCUIT DIAGRAM:
 
+
  paste your circuit diagram
 
 ## MODEL GRAPH:
