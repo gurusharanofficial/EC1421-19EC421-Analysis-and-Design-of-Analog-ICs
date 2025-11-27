@@ -11,6 +11,7 @@ To design and test the performance of differentiator circuits using Op-amp.
 ## DIFFEERENTIATOR:
 The differentiator circuit performs the mathematical operation of differentiation; that is, the output waveform is the derivative of the input waveform. The differentiator may be constructed from a basic inverting amplifier if an input resistor R1 is replaced by a capacitor C1 . The expression for the output voltage is given as,
 
+
 Vo = - Rf C1 ( dVi /dt )
 
 Here the negative sign indicates that the output voltage is 180 0 out of phase with the input signal. A resistor Rcomp = Rf is normally connected to the non-inverting input terminal of the op-amp to compensate for the input bias current. A workable differentiator can be designed by implementing the following steps:
