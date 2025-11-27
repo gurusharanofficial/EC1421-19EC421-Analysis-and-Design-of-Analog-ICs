@@ -12,7 +12,7 @@ To design and test the performance of integrator circuits using  Op-amp.
 ## THEORY:
 
 INTEGRATOR 
- 
+
 A circuit in which the output voltage waveform is the integral of the input voltage 
 waveform is the integrator. Such a circuit is obtained by using a basic inverting amplifier 
 configuration if the feedback resistor Rf is  replaced by a capacitor Cf .  The expression for the 
