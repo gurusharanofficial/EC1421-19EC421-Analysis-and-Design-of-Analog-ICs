@@ -40,7 +40,6 @@ band pass filter depends on the order of high pass and low pass sections.
 ## BAND-PASS
 
 ## MODEL GRAPH:
-
 ## LOW_PASS
 ## HIGH-PASS
 ## BAND-PASS
